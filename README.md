@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on random stuff, here and there.<br>🌱 I’m currently not learning anything specific.<br>💬 Ask me about anything.<br>⚡ Fun fact, I can stare at my code while my head is absolutely empty.
+🔭 I’m currently working on random stuff, here and there.<br>🌱 I’m currently not learning anything specific.<br>💬 Ask me about IoT, Tuya, SmartHome stuff.<br>⚡ Fun fact, I can stare at my code while my head is absolutely empty.
 
 
 ## 🌐 Socials:
