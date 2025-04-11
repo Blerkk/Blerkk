@@ -12,10 +12,12 @@
 <h2>📜 Certifications:</h2>
 <p align="center">
   <img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" alt="English for IT 1" width="120"/>
+  <br>
   <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="120"/>
   <img src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="120"/>
   <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" width="120"/>
   <img src="https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" alt="Linux Essentials" width="120"/>
+  <br>
   <img src="https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Linux Unhatched" width="120"/>
   <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="120"/>
   <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Introduction to Modern AI" width="120"/>
